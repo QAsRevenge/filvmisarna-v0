@@ -1,0 +1,194 @@
+[
+  {
+    "title": "Call me by your name",
+    "productionCountries": [
+      "Italien",
+      "USA"
+    ],
+    "productionYear": 2017,
+    "length": 132,
+    "genre": "Drama",
+    "distributor": "UIP",
+    "language": "engelska",
+    "subtitles": "svenska",
+    "director": "Luca Guadagnino",
+    "actors": [
+      "Armie Hammer",
+      "Timothée Chalamet",
+      "Michael Stuhlbarg"
+    ],
+    "description": "<p>Filmen utspelas i norra Italien sommaren 1983. En ung amerikansk-italienare blir förälskad i en amerikansk student som kommer för att studera och bo hos hans familj.</p><p>Tillsammans upplever de en oförglömlig sommar - full av musik, mat och kärlek - som för evigt kommer att förändra dem.</p>",
+    "images": [
+      "call-me-by-your-name-poster.jpg"
+    ],
+    "youtubeTrailers": [
+      "Z9AYPxH5NTM"
+    ],
+    "reviews": [
+      {
+        "source": "Sydsvenskan",
+        "quote": "ett drama berättat med stor ömhet",
+        "stars": 4,
+        "max": 5
+      },
+      {
+        "source": "Svenska Dagbladet",
+        "quote": "en film att förälska sig i",
+        "stars": 5,
+        "max": 5
+      },
+      {
+        "source": "DN",
+        "quote": "en het romans i åttiotalskostym",
+        "stars": 4,
+        "max": 5
+      }
+    ]
+  },
+  {
+    "title": "Avatar - The Way of Water",
+    "productionCountries": [
+      "USA"
+    ],
+    "productionYear": 2022,
+    "length": 192,
+    "genre": "Drama",
+    "distributor": "UIP",
+    "language": "engelska",
+    "subtitles": "svenska",
+    "director": "James Cameron",
+    "actors": [
+      "Michelle Yeoh", 
+      "Zoe Saldana",
+      "Kate Winslet",
+      "Sigourney Weaver",
+      "Oona Chaplin",
+      "Sam Worthington",
+      "Jemaine Clement",
+      "Stephen Lang"
+    ],
+    "description": "<p>Mer än tio år efter händelserna i den första filmen berättar ”Avatar The Way of Water” historien om familjen Sully (Jake, Neytiri och deras barn), problemen som följer dem, allt de gör för att leva i säkerhet, slagen de utkämpar för att hålla sig levande och tragedierna de måste utstå.</p>",
+    "images": [
+      "avatar-the-way-of-water-poster.jpg"
+    ],
+    "youtubeTrailers": [
+      "d9MyW72ELq0"
+    ],
+    "reviews": [
+      {
+        "source": "Sydsvenskan",
+        "quote": "ett drama berättat med stor ömhet",
+        "stars": 4,
+        "max": 5
+      },
+      {
+        "source": "Svenska Dagbladet",
+        "quote": "en film att förälska sig i",
+        "stars": 5,
+        "max": 5
+      },
+      {
+        "source": "DN",
+        "quote": "en het romans i åttiotalskostym",
+        "stars": 4,
+        "max": 5
+      }
+    ]
+  },
+  {
+    "title": "The Thing",
+    "productionCountries": [
+      "USA"
+    ],
+    "productionYear": 1982,
+    "length": 109,
+    "genre": "Sci-fi, horror",
+    "distributor": "Universal Pictures",
+    "language": "engelska",
+    "subtitles": "svenska",
+    "director": "John Carpenter",
+    "actors": [
+      "Kurt Russell",
+      "Keith David",
+      "Wilford Brimley",
+      "David Clennon",
+      "T.K Carter",
+      "Richard Masur"
+    ],
+    "description": "<p>Vintern 1982. En grupp bestående av 12 forskare befinner sig på en avsides belägen station på Antarktis, när de upptäcker att rymdväsen som begravts i snön för mer än 100 000 år sedan. Det upptinade monstret förvandlar sig till en av dem.</p>",
+    "images": [
+      "the-thing-poster.jpg"
+    ],
+    "youtubeTrailers": [
+      "Z9AYPxH5NTM"
+    ],
+    "reviews": [
+      {
+        "source": "Sydsvenskan",
+        "quote": "ett drama berättat med stor ömhet",
+        "stars": 4,
+        "max": 5
+      },
+      {
+        "source": "Svenska Dagbladet",
+        "quote": "en film att förälska sig i",
+        "stars": 5,
+        "max": 5
+      },
+      {
+        "source": "DN",
+        "quote": "en het romans i åttiotalskostym",
+        "stars": 4,
+        "max": 5
+      }
+    ]
+  },
+  {
+    "title": "The Batman",
+    "productionCountries": [
+      "USA"
+    ],
+    "productionYear": 2022,
+    "length": 176,
+    "genre": "Drama, Action",
+    "distributor": "Warner Bros. Pictures",
+    "language": "engelska",
+    "subtitles": "svenska",
+    "director": "Matt Reeves",
+    "actors": [
+      "Robert Pattinson",
+      "Zoë Kravitz",
+      "Paul Dano",
+      "Colin Farrell",
+      "Jeffrey Wright",
+      "Andy Serkis"
+    ],
+    "description": "<p>En seriemördare försöker locka in Gothams brottsbekämpare i ett spel att slå ursinnigt mot orättvisorna där de uppstår. Men i Batmans mörka siluett finns en genomträngande blick som metodiskt förstör leken för den undre världen.</p>",
+    "images": [
+      "the-batman.jpg"
+    ],
+    "youtubeTrailers": [
+      "mqqft2x_Aa4"
+    ],
+    "reviews": [
+      {
+        "source": "Sydsvenskan",
+        "quote": "ett drama berättat med stor ömhet",
+        "stars": 4,
+        "max": 5
+      },
+      {
+        "source": "Svenska Dagbladet",
+        "quote": "en film att förälska sig i",
+        "stars": 5,
+        "max": 5
+      },
+      {
+        "source": "DN",
+        "quote": "en het romans i åttiotalskostym",
+        "stars": 4,
+        "max": 5
+      }
+    ]
+  }
+]

@@ -1,0 +1,131 @@
+/* change to your own choice of fonts */
+@import url('https://fonts.googleapis.com/css2?family=Arima:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&family=Raleway:wght@400;500&display=swap');
+
+
+@import 'normalize.css';
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Raleway';
+  font-size: 14px;
+  background-color: rgba(11, 12, 23, 1);
+}
+
+img {
+  width: 100%;
+}
+
+main {
+  max-width: 750;
+  height: 1900px;
+  margin: 0 auto;
+}
+
+h2 {
+  font-family:'Poppins';
+  font-style: normal;
+  font-size: 18px;
+  line-height: 26px;
+  padding-top: 50px;
+  margin-left: 0;
+  color: rgba(255, 255, 255, 1);
+  font-weight: 600;
+}
+
+/*För frosted glass effekt på headern*/
+@supports ((-webkit-backdrop-filter: none) or (backdrop-filter: none)){
+header {
+  background-color: rgba(11, 12, 23, 0.3);
+  padding: 10px 40px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  -webkit-backdrop-filter: blur(2em);
+  backdrop-filter: blur(2em);
+}
+}
+
+header h1 {
+  margin: 0;
+}
+header a:nth-child(1) {
+  display: inline-block;
+  padding: 10px 20px;
+  text-decoration: none;
+  color: rgb(161, 0, 0);
+}
+header a {
+  display: inline-block;
+  padding: 10px 20px;
+  text-decoration: none;
+  color: rgba(152, 154, 173, 1);
+}
+
+header a:first-of-type {
+  padding-left: 0;
+}
+
+header .active {
+  color: white;
+}
+
+header a:hover {
+  color: rgb(199, 202, 227);
+}
+
+p {
+  font-family: 'Raleway';
+  font-weight: 500;
+  font-size: 12px;
+  color:rgba(255, 255, 255, 1);
+}
+.descriptor-title{
+font-family: 'Raleway';
+font-weight: 500;
+font-size: 12px;
+line-height: 20px;
+color: rgba(152, 154, 173, 1);
+}
+
+
+.movie {
+  display: block;
+  padding: 10px 30px 0 0;
+  text-decoration: none;
+  color: black;
+  margin-bottom: 20px;
+  width: 50%;
+  float: left;
+}
+
+.movie h3 {
+  text-align: center;
+}
+
+.movie img {
+  border: 1px solid black;
+}
+
+.movieDescription{
+  width: 600px;
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  font-feature-settings: 'pnum' on, 'lnum' on;
+  color: rgba(255, 255, 255, 1);
+}
+
+.movieDetail img {
+  display: block;
+  float: right;
+  margin-top: 50px;
+  width: 40%;
+  margin-left: 20px;
+  border: 1px solid black;
+}
